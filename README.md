@@ -12,12 +12,7 @@ As I continue my studies in computer science, I'm excited to gain a solid founda
 
 # 💻 Tech Stack:
 
-[![My Skills](https://skillicons.dev/icons?i=github,java,mysql,python)](https://skillicons.dev)
-
-- [Git](https://git-scm.com/)
-- [Java](https://www.java.com)
-- [MySQL](https://www.mysql.com/)
-- [Python](https://www.python.org)
+[![Git](https://skillicons.dev/icons?i=github)](https://github.com)[![Java](https://skillicons.dev/icons?i=java)](https://java.com)[![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com)[![Python](https://skillicons.dev/icons?i=python)](https://www.python.org)[![VSCode](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com)
 
 # 📊 GitHub Stats:
 
